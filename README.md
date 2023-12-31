@@ -1,5 +1,5 @@
 # Happy_New_Year
-,,,
+```
 
 rm -rf Happy_New_Year
 
@@ -9,6 +9,6 @@ cd Happy_New_Year
 
 python H_N_Y.py
 
-,,,
+```
 
 # Enjoy This Tools 😊
