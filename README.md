@@ -13,6 +13,7 @@ python H_N_Y.py
 
 # Enjoy This Tools 😊
 
-![Screenshot_20240101-003611](https://github.com/Termuxmasud404/Happy_New_Year/assets/118968969/4acc3383-f038-4994-8861-fd8bd031ced9)
-![Screenshot_20240101-003631](https://github.com/Termuxmasud404/Happy_New_Year/assets/118968969/d6b4bcb9-55a5-4003-9cb4-53aad74e4071)
-![Screenshot_20240101-003821](https://github.com/Termuxmasud404/Happy_New_Year/assets/118968969/a4e65538-ccc2-4125-8e16-1ecacb3ac17c)
+![Screenshot_20240101-003611-01](https://github.com/Termuxmasud404/Happy_New_Year/assets/118968969/4c5fc6b7-7b92-45c9-bf31-b8532c6e04ec)
+![Screenshot_20240101-003541-01](https://github.com/Termuxmasud404/Happy_New_Year/assets/118968969/0e04efe9-72e8-43a2-b519-5e7dc2c4e6fe)
+![Screenshot_20240101-003821-01](https://github.com/Termuxmasud404/Happy_New_Year/assets/118968969/86e48678-ad60-46a6-916c-b25aadb0acac)
+
